@@ -23,6 +23,12 @@ const upgradeList = [
     title: "Monolith",
     cost: 10,
     description: "Modular, well written masterpiece",
+    more: [
+      {
+        url: "https://twitter.com/alexxubyte/status/1577684758779203584",
+        name: "I mean Stack Overflow. What did you think?!",
+      }
+    ],
     spPerSecond: 1
   },
   {
@@ -31,12 +37,6 @@ const upgradeList = [
     title: "Kill a child",
     cost: 10,
     description: "process. I meant process! Too late",
-    more: [
-      {
-        url: "https://twitter.com/alexxubyte/status/1577684758779203584",
-        name: "I mean Stack Overflow. What did you think?!",
-      }
-    ],
     spPerSecond: -1
   },
   {
